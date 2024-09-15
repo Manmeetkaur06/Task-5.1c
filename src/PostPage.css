@@ -1,0 +1,11 @@
+/* src/PostPage.css */
+.post-page {
+    margin: 20px;
+  }
+  
+  .post-content {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border: 1px solid #ddd;
+  }
+  
